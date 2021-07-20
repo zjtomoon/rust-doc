@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["spin_loop","Save power or switch hyperthreads in a busy-wait spin-loop."],["unreachable_unchecked","Informs the compiler that this point in the code is not reachable, enabling further optimizations."]]});
